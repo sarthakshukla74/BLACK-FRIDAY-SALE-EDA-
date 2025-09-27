@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+
+# Dataset files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
